@@ -22,6 +22,7 @@ Compte pour tester le site:
 user: Gargamel
 mdp: =Gargamel
 
-Application en local:
+Tester l'application::
 
--Avec xaamp (version 3.3.0): activer la base de donnée puis importer le fichier sql et activer apache.
+-Avec le logiciel xaamp (version 3.3.0): activer la base de donnée puis importer le fichier sql et activer apache.
+-Se connecter en localhost sur un navigateur.
