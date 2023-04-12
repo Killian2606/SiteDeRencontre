@@ -9,7 +9,7 @@ L'utilisateur peut créer un compte en remplissant le formulaire d'inscription q
 
 Affichage des utilisateurs:
 
-Une fois connecté, l'utilisateur peut voir la liste des utilisateurs sous forme de cards qui contiennent leur photo de profil, leur pseudo et leur résumé. Chaque card a deux boutons : "voir plus" qui renvoie vers la page profil de l'utilisateur et "liker" qui ajoute un match entre l'utilisateur actuel et l'utilisateur liké (si la ligne n'existe pas déjà dans la table match).
+Une fois connecté, l'utilisateur peut voir la liste des utilisateurs sous forme de cards qui contiennent leur photo de profil, leur pseudo et leur résumé. Chaque card a deux boutons : "voir plus" qui renvoie vers la page profil de l'utilisateur et "liker" qui ajoute un match entre l'utilisateur actuel et l'utilisateur liké.
 
 Matching:
 
